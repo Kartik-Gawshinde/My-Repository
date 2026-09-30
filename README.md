@@ -1,4 +1,4 @@
 # My-Repository
-This is Mt GitHub Repository
+This is My GitHub Repository
 <br>
 Author Kartik Gawshinde
